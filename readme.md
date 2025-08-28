@@ -19,7 +19,7 @@
 <div style="display: inline_block">
   &nbsp;
 
-[![My Skills](https://skillicons.dev/icons?i=python,react,java,git,postgres,mysql,octave,docker,kubernetes,linux,tailwind,postman,spring,figma,aws,sklearn,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,git,react,js&perline=5)](https://skillicons.dev)
 
 </div>
 </div>
