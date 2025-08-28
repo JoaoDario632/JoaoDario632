@@ -7,10 +7,10 @@
 </div>
  <div align='center'>
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=João-Dário&theme=gotham&border_color=000000&rank_icon=github)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=João-Dário&theme=gotham&utcOffset=-3)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=João-Dário&theme=gotham&exclude={exclude})
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=João-Dário&theme=gotham&exclude={exclude})
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElprogramadorX&theme=gotham&border_color=000000&rank_icon=github)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElprogramadorX&theme=gotham&utcOffset=-3)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElprogramadorX&theme=gotham&exclude={exclude})
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElprogramadorX&theme=gotham&exclude={exclude})
 </div>
 <div align="center">
   
@@ -35,25 +35,25 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=João-Dário&bg_color=000000&color=15BFE5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElprogramadorX&bg_color=000000&color=15BFE5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <div align='center'>
   
   [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otto_s4muel/)
   [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-dário-597826187/)
   [![Social](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord-readme-badge.vercel.app/api?id=1242970911293046857)
-  [![Social](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/João-Dário)
+  [![Social](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ElprogramadorX)
 </div>
 
  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=João-Dário&theme=onestar&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ElprogramadorX&theme=onestar&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
 </div>
 
 <!--
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/João-Dário/João-Dário/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ElprogramadorX/ElprogramadorX/output/snake.svg" alt="Snake animation" />
 </div>
 -->
 <div align="center">
