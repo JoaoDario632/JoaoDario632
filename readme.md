@@ -50,12 +50,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JoaoDario632&theme=onestar&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
 </div>
 
+<!-- Snake animation -->
 <!--
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/JoaoDario632/JoaoDario632/output/snake.svg" alt="Snake animation" />
 </div>
 -->
+
+<!-- Jogo Breakout -->
 <div align="center">
 <picture>
   <source
