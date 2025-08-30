@@ -31,10 +31,6 @@
   
 <br>
 
-<p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoDario632&bg_color=000000&color=15BFE5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
@@ -45,29 +41,6 @@
  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoaoDario632&theme=onestar&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
-</div>
-
-<!-- Snake animation -->
-<!--
-<div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/JoaoDario632/JoaoDario632/output/snake.svg" alt="Snake animation" />
-</div>
--->
-
-<!-- Jogo Breakout -->
-<div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
