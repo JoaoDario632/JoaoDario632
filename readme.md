@@ -8,16 +8,11 @@
 
 <div align='center'>
 
-  <!-- 🟣 Novos painéis de estatísticas -->
+  <!-- 🟣 Painéis principais em estilo Neon -->
   ![](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-  <br>
-
-  <!-- 🟪 Seus cards originais -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=8A2BE2&rank_icon=github)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoDario632&theme=neon&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDario632&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=2077&utcOffset=-3)
 
 </div>
 
@@ -32,7 +27,8 @@
 
 </div>
 </div>
-  <br>
+
+<br>
 
 #### - <span>🔭 Comecei meus estudos em programação em 2023</span><br>
 #### - <span>🔬 Estudando CiberSegurança e IA</span>
