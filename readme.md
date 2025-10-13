@@ -6,35 +6,36 @@
   <br></br>
 </div>
 
-<div align='center'>
+<div align="center">
 
-  <!-- 🟣 Painéis principais em estilo Neon -->
-  ![](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoDario632&theme=neon&hide_border=false)<br/>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=2077&utcOffset=-3)
-
+  <!-- Estatísticas principais em estilo roxo/neon -->
+  <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoDario632&show_icons=true&theme=midnight-purple"/>
+  <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDario632&layout=donut&theme=midnight-purple"/>
+  <img height="190" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=JoaoDario632&theme=midnight-purple&border_color=000000"/>
+  <img height="190" width="280px" alt="Coding GIF" src="https://github.com/JoaoDario632/JoaoDario632/blob/main/images/ea3d0e0e62fb159afb7733d1c6c9d9c6.gif"/>
+  <br><br>
+  <img alt="Resumo do Perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDario632&theme=aura"/>
 </div>
 
 <div align="center">
   
-## _**SKILLS and TOOLS**_    <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">        
+## _**SKILLS and TOOLS**_ 🔧
 
 <div style="display: inline_block">
   &nbsp;
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,git,react,js&perline=5)](https://skillicons.dev)
-
-</div>
+  [![My Skills](https://skillicons.dev/icons?i=java,python,git,react,js&perline=5)](https://skillicons.dev)
 </div>
 
 <br>
+#### - 🔭 Comecei meus estudos em programação em 2023
+#### - 🔬 Estudando CiberSegurança e IA
 
-#### - <span>🔭 Comecei meus estudos em programação em 2023</span><br>
-#### - <span>🔬 Estudando CiberSegurança e IA</span>
-  
+</div>
+
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoDario632&bg_color=000000&color=bb86fc&line=8A2BE2&point=b57aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodario/)  
