@@ -6,17 +6,20 @@
   <br></br>
 </div>
 
-<!-- 🎇 Seção com efeito de névoa -->
+<!-- 🎇 Seção com efeito de névoa para estatísticas -->
 <div align="center" style="backdrop-filter: blur(12px); background: rgba(138,43,226,0.08); border: 1px solid rgba(138,43,226,0.5); border-radius: 20px; padding: 25px; box-shadow: 0 0 25px rgba(138,43,226,0.3);">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=8A2BE2&rank_icon=github)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoDario632&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDario632&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 <br>
+
+<!-- 💠 Seção de habilidades com efeito de névoa -->
 <div align="center" style="backdrop-filter: blur(10px); background: rgba(138,43,226,0.06); border: 1px solid rgba(138,43,226,0.4); border-radius: 20px; padding: 20px; box-shadow: 0 0 20px rgba(138,43,226,0.25);">
   
 ## _**SKILLS and TOOLS**_ <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">        
