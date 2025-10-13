@@ -10,6 +10,8 @@
 
   <!-- 🟣 Painéis principais em estilo Neon -->
   ![](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoDario632&theme=neon&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDario632&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=2077&utcOffset=-3)
 
 </div>
@@ -37,9 +39,24 @@
 
 <div align="center">
 
-  <!-- 🟣 Commits por linguagem -->
-  ![](https://github-readme-stats.vercel.app/api/commits-per-language/?username=JoaoDario632&theme=neon&hide_border=false&count_private=true)
+## _**Commits por Linguagem**_ 🔮
 
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <div align="center">
+    ![Java](https://img.shields.io/badge/Java-1200%20commits-8A2BE2?style=for-the-badge&logo=java&logoColor=white)
+  </div>
+  <div align="center">
+    ![Python](https://img.shields.io/badge/Python-900%20commits-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+  </div>
+  <div align="center">
+    ![JavaScript](https://img.shields.io/badge/JavaScript-600%20commits-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)
+  </div>
+  <div align="center">
+    ![React](https://img.shields.io/badge/React-450%20commits-8A2BE2?style=for-the-badge&logo=react&logoColor=white)
+  </div>
+
+</div>
 </div>
 
 <div align="center">
