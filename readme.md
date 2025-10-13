@@ -10,7 +10,6 @@
 
   <!-- Estatísticas principais em estilo roxo/neon -->
   <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoDario632&show_icons=true&theme=midnight-purple"/>
-  <img height="190" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDario632&layout=donut&theme=midnight-purple"/>
   <img height="190" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=JoaoDario632&theme=midnight-purple&border_color=000000"/>
   <img height="190" width="280px" alt="Coding GIF" src="https://github.com/JoaoDario632/JoaoDario632/blob/main/images/ea3d0e0e62fb159afb7733d1c6c9d9c6.gif"/>
   <br><br>
