@@ -8,7 +8,6 @@
 
 <div align="center">
 
-  <!-- Estatísticas principais em vermelho -->
   <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoDario632&show_icons=true&theme=default&border_color=FF0000&title_color=FF0000&icon_color=FF0000&text_color=FF4D4D"/></br>
   <img height="190" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=JoaoDario632&theme=dark&border_color=FF0000&stroke=FF0000&background=000000"/></br>
   <img height="190" width="280px" alt="Coding GIF" src="https://github.com/JoaoDario632/JoaoDario632/blob/main/images/ea3d0e0e62fb159afb7733d1c6c9d9c6.gif"/></br>
@@ -34,7 +33,7 @@
 </div>
  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoDario632&theme=onestar&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoDario632&theme=red&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
