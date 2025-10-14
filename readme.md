@@ -17,14 +17,6 @@
 </div>
 
 <div align="center">
-  
-## _**SKILLS and TOOLS**_ 🔧
-
-<div style="display: inline_block">
-  &nbsp;
-  [![My Skills](https://skillicons.dev/icons?i=java,python,git,react,js&perline=5)](https://skillicons.dev)
-</div>
-
 <br>
 #### - 🔭 Comecei meus estudos em programação em 2023
 #### - 🔬 Estudando CiberSegurança e IA
