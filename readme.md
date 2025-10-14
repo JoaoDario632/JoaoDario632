@@ -8,12 +8,12 @@
 
 <div align="center">
 
-  <!-- Estatísticas principais em estilo roxo/neon -->
-  <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoDario632&show_icons=true&theme=midnight-purple"/></br>
-  <img height="190" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=JoaoDario632&theme=midnight-purple&border_color=000000"/></br>
+  <!-- Estatísticas principais em estilo roxo/neon com bordas vermelhas -->
+  <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoDario632&show_icons=true&theme=midnight-purple&border_color=FF4D4D"/></br>
+  <img height="190" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=JoaoDario632&theme=midnight-purple&border_color=FF4D4D"/></br>
   <img height="190" width="280px" alt="Coding GIF" src="https://github.com/JoaoDario632/JoaoDario632/blob/main/images/ea3d0e0e62fb159afb7733d1c6c9d9c6.gif"/></br>
   <br><br>
-  <img alt="Resumo do Perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDario632&theme=aura"/>
+  <img alt="Resumo do Perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDario632&theme=aura&border_color=FF4D4D"/>
 </div>
 
 <div align="center">
