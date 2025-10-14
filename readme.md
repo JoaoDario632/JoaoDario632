@@ -18,6 +18,7 @@
 <div align="center">
 <br>
 #### - 🔭 Comecei meus estudos em programação em 2023
+<br>
 #### - 🔬 Estudando CiberSegurança e IA
 
 </div>
