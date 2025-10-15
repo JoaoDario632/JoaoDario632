@@ -4,7 +4,7 @@
   <img height="190" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoDario632&show_icons=true&theme=default&border_color=FF0000&title_color=FF0000&icon_color=FF0000&text_color=FF4D4D"/>
 
   <!-- Streak Stats -->
-  <img height="190" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=JoaoDario632&theme=dark&border_color=FF0000&stroke=FF0000&background=000000"/>
+  <img height="190" alt="Streak Stats" src="https://streak-stats.vercel.app/?user=JoaoDario632&theme=dark&border=FF0000&stroke=FF0000&background=000000"/>
 
   <br><br>
 
@@ -23,7 +23,6 @@
 
   <br><br>
 
-  <!-- Textos de estudo -->
   <p>
     🔭 Comecei meus estudos em programação em 2023 <br>
     🔬 Estudando CiberSegurança e IA
