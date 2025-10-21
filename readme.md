@@ -7,12 +7,6 @@
   <img height="190" alt="Streak Stats" src="https://streak-stats.vercel.app/?user=JoaoDario632&theme=dark&border=00008B&stroke=00008B&background=000000"/>
 
   <br><br>
-
-  <!-- Imagem de Codificação -->
-  <img height="190" width="280px" alt="Coding Image" src="./images/c82f7bc1-01bf-4df9-9ca2-8958b6906a78.png"/>
-
-  <br><br>
-
   <!-- Resumo do Perfil -->
   <img alt="Resumo do Perfil" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDario632&theme=default&border_color=00008B&title_color=00008B&icon_color=00008B&text_color=1E90FF"/>
 
