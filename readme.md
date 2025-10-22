@@ -30,8 +30,12 @@
 <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50" />
 <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" />
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
+<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" />
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" />
+<img src="https://skillicons.dev/icons?i=react" alt="JSX" height="50" />
 
 </div>
+
 
 
   <br>
