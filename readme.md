@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02EC9D&height=120&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+João+Dário;sou+de+Belém,+Pará;eu+estudo+ciência+da+computação;seja+bem-vindo!+:%29)](https://git.io/typing-svg)
@@ -6,19 +7,24 @@
   <br></br>
   <br></br>
 </div>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,java,git,postgres,mysql,docker,kubernetes,linux,tailwind,postman,spring,figma,aws&perline=9"/>
-  </a>
-</p>
+ <div align='center'>
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+
+
+
+</div>
 
 <div align="center">
 
-## *SKILLS and TOOLS*    <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">        
-
+## _**SKILLS and TOOLS**_    <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">        
+[![SKILLS and TOOLS](https://skillicons.dev/icons?i=python,javacript,javaline=5)](https://skillicons.dev)  
+[![SKILLS and TOOLS](https://skillicons.dev/icons?i=vscode,githubline=5)](https://skillicons.dev)
 <div style="display: inline_block">
-  &nbsp;
-@@ -27,24 +23,24 @@
+killicons.dev/icons?i=vscode,github,ubuntu
 
 </div>
 </div>
