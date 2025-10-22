@@ -6,16 +6,11 @@
   <br></br>
   <br></br>
 </div>
- <div align='center'>
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
-
-
-
-</div>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,java,git,postgres,mysql,docker,kubernetes,linux,tailwind,postman,spring,figma,aws&perline=9"/>
+  </a>
+</p>
 
 <div align="center">
 
