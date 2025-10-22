@@ -20,14 +20,19 @@
 
 <div align="center">
 
-## _**SKILLS and TOOLS**_    <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">        
-[![SKILLS and TOOLS](https://skillicons.dev/icons?i=python,javacript,javaline=5)](https://skillicons.dev)  
-[![SKILLS and TOOLS](https://skillicons.dev/icons?i=vscode,githubline=5)](https://skillicons.dev)
+## _**SKILLS and TOOLS**_  
+<img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+
 <div style="display: inline_block">
-killicons.dev/icons?i=vscode,github,ubuntu
+  [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+  [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+</div>
 
 </div>
-</div>
+
   <br>
 
     
