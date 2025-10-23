@@ -35,7 +35,7 @@
   <br>
 
     
- #### - <span>🔭 Comecei meus estudos em programação em 2022</span><br>
+ #### - <span>🔭 Comecei meus estudos em programação em 2023</span><br>
  #### - <span>🔬 Estudando CiberSegurança e IA</span>
 
 
