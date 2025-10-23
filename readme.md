@@ -8,7 +8,6 @@
   <br></br>
 </div>
  <div align='center'>
-    <img height="190" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=JoaoDario632&theme=dark&border_color=FF0000&stroke=FF0000&background=000000"/></br>
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
