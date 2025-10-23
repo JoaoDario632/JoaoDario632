@@ -19,17 +19,22 @@
 
 <div align="center">
 
-## _**SKILLS and TOOLS**_  
-<img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+<div align="center">
 
-<div style="display: inline_block">
-  [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-  [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+## _**SKILLS and TOOLS**_   <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="50" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" height="50" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
+<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" />
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" />
+<img src="https://skillicons.dev/icons?i=react" alt="JSX" height="50" />
+
 </div>
-
 </div>
 
   <br>
