@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+João+Dário;sou+de+Belém,+Pará;eu+estudo+ciência+da+computação;seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align='center'>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham)
+![GitHub Stats](https://readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham)
 
 </div>
