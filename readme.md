@@ -6,18 +6,16 @@
   <br></br>
   <br></br>
 </div>
- <div align='center'>
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+<div align='center'>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoDario632&theme=dracula)
 
 </div>
-
-<div align="center">
 
 <div align="center">
 
@@ -32,17 +30,14 @@
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
 <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" />
 <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" />
-<img src="https://skillicons.dev/icons?i=react" alt="JSX" height="50" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
 
 </div>
-</div>
 
-  <br>
+<br>
 
-    
- #### - <span>🔭 Comecei meus estudos em programação em 2023</span><br>
- #### - <span>🔬 Estudando CiberSegurança e IA</span>
-
+#### - <span>🔭 Comecei meus estudos em programação em 2023</span><br>
+#### - <span>🔬 Estudando CiberSegurança e IA</span>
 
 <br>
 
