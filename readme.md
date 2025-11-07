@@ -13,7 +13,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoDario632&theme=gotham&hide_border=false)
+
 
 </div>
 
