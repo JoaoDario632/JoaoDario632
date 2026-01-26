@@ -1,96 +1,56 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=02EC9D&height=120&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=40&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02EC9D&height=120&section=header"/> 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=02EC9D&size=32&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+João+Dário!;Ciência+da+Computação+🎓;CiberSegurança+🔐+e+IA+🤖;Direto+de+Belém,+Pará+🌳;Seja+Bem-vindo(a)!"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+João+Dário;sou+de+Belém,+Pará;eu+estudo+ciência+da+computação;seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+
+<div>
+  <br></br>
+  <br></br>
 </div>
 
----
+<div align='center'>
 
-## 👨‍💻 **Sobre mim**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
 
-Sou graduando em **Ciência da Computação** e comecei minha jornada na tecnologia em **2023**.  
-Atualmente, minhas principais áreas de estudo são:
-
-✔ **CiberSegurança** (offensive & defensive security)  
-✔ **Inteligência Artificial** (modelos, automação e aplicações)  
-✔ **Desenvolvimento de Software** (Python, JS, React)  
-
-Tenho forte interesse em **Smart Cities**, **Infraestrutura**, **Sistemas Inteligentes** e em como tecnologia pode resolver problemas reais no dia a dia.
-
-📍 **Localização:** Belém – Pará, Brasil  
-📅 **Desde 2023 na programação**  
-🎯 **Objetivo:** Criar soluções úteis, seguras e inteligentes
-
----
-
-## 🧠 **Principais Conhecimentos**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,git,github,linux,aws,supabase,vscode&perline=6" />
-</div>
-
----
-
-## 🧩 **Stack Técnica**
-
-<div align="center">
-
-| **Categoria**       | **Techs** |
-|---------------------|-----------|
-| **Linguagens**      | Python, Java, JavaScript |
-| **Web/Cloud**       | React, Supabase, AWS |
-| **Ferramentas**     | Linux, Git, GitHub, VS Code |
-| **Foco atual**      | Segurança, IA, Automações |
 
 </div>
 
----
-
-## 📂 **Projetos em Destaque**
-
-> _(Coloque os principais repos aqui depois — posso organizar isso também)_
-
-⭐ Projetos que envolvem **Smart Cities**, **Segurança**, **IA** e **Infraestrutura** recebem prioridade.
-
----
-
-## 📊 **Estatísticas**
-
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoDario632&show_icons=true&theme=gotham&border_radius=10&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDario632&layout=compact&theme=gotham&border_radius=10"/>
+
+## _**SKILLS and TOOLS**_   <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="50" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" height="50" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
+<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" />
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
+
 </div>
 
-<br/>
+<br>
+
+#### - <span>🔭 Comecei meus estudos em programação em 2023</span><br>
+#### - <span>🔬 Estudando CiberSegurança e IA</span>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoDario632&bg_color=000000&color=15BFE5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoDario632&bg_color=000000&color=15BFE5&line=07e9a5&point=0a855c&area=true&hide_border=true"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodario/)  
+
 </div>
-
-<br/>
-
+ 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoDario632&theme=onestar&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
 </div>
 
----
-
-## 🏆 **Troféus**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoDario632&theme=onestar&row=1&no-bg=true&column=4&margin-w=14&margin-h=14"/>
-</div>
-
----
-
-## 🌎 **Conecte-se comigo!**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/joaodario/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
