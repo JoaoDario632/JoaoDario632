@@ -1,85 +1,56 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E00F5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02EC9D&height=120&section=header"/> 
 
-<h3 align="center">𓆩⚝𓆪</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+João+Dário;sou+de+Belém,+Pará;eu+estudo+ciência+da+computação;seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<h1 align="center">Hey, eu sou o João Dário 👋</h1>
-
-<p align="center">
-  <b>Estudante de Ciência da Computação</b><br/>
-  <b>CiberSegurança & Inteligência Artificial</b><br/>
-  Direto de Belém - Pará 🌳
-</p>
-
-<h3 align="center">welcome! :)</h3>
-
-<br/>
-
-<!-- STATUS CARDS + LINGUAGENS -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoDario632&theme=dracula"/>
-  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=dracula"/>
+<div>
+  <br></br>
+  <br></br>
 </div>
 
-<br/>
+<div align='center'>
 
-<!-- GIF ESTÉTICO -->
-<div align="center">
-  <img src="https://i.gifer.com/origin/8b/8b4e52f94d8bb8dd56c1e0f3989e7c7c.gif" width="350"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
+
+
 </div>
-
-<br/>
-
-<!-- GRÁFICO DE ATIVIDADE -->
-<div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDario632&theme=dracula"/>
-</div>
-
-<br/>
-
-<!-- PROJETOS -->
-## 🗂️ Projetos Recentes
-
-> *Principais repositórios (posso ajudar a organizar depois)*
-
-📌 **Amazon Charger** — Totem Smart City para carregamento urbano  
-📌 **App de Serviços** — Conecta elementos da cadeia produtiva  
-📌 **Projetos de IA & CyberSeg** — Automação, defesa, etc.
-
-> _obs: se quiser, coloco links diretos e cards estilizados_
-
-<br/>
-
-<!-- TECNOLOGIAS -->
-## 🧰 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,aws,supabase,linux,git,github,vscode" />
+
+## _**SKILLS and TOOLS**_   <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="50" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" height="50" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" />
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
+<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" />
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
+
 </div>
 
-<br/>
+<br>
 
-<!-- BADGES -->
-## 🏷️ Badges
+#### - <span>🔭 Comecei meus estudos em programação em 2023</span><br>
+#### - <span>🔬 Estudando CiberSegurança e IA</span>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoDario632&bg_color=000000&color=15BFE5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CyberSecurity-purple?style=for-the-badge&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-vision-purple?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Smart Cities-purple?style=for-the-badge"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodario/)  
+
 </div>
-
-<br/>
-
-<!-- CONTATO -->
-## 📫 Conecte-se comigo
-
+ 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joaodario/">
-    <img src="https://img.shields.io/badge/LinkedIn-6E00F5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=JoaoDario632&theme=onestar&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
 </div>
 
-<br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E00F5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
