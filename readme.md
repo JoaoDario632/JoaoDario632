@@ -41,12 +41,9 @@ Aplicativo de gestão financeira voltado para agricultores de pequeno a médio p
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham"/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDario632&theme=gotham"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoDario632&theme=react-dark&hide_border=true&area=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham"/>
 
 </div>
-
 ---
 
 # 🛠️ Tecnologias & Ferramentas
