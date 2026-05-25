@@ -2,10 +2,10 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou João Dário
+# Olá, eu sou João Dário
 
-### 🚀 Estudante de Ciência da Computação | Desenvolvedor Full Stack  
-### 🌎 Belém - Pará, Brasil
+### Estudante de Ciência da Computação | Desenvolvedor Full Stack  
+### Belém - Pará, Brasil
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Estudando+CiberSegurança+e+IA;Construindo+soluções+para+a+Amazônia)](https://git.io/typing-svg)
 
