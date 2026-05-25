@@ -57,7 +57,7 @@ Aplicativo de gestão finnaceira voltado para agricultores de pequeno a medio po
 <img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
 <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="NextJS"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="NodeJS"/>
-<img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase"/>
 <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
 <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
 <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
@@ -76,8 +76,7 @@ Aplicativo de gestão finnaceira voltado para agricultores de pequeno a medio po
 <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
 <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase"/>
-
+<img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase"/>
 </div>
 
 ---
