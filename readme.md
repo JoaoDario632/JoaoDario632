@@ -7,7 +7,7 @@
 ### Estudante de Ciência da Computação | Desenvolvedor Full Stack  
 ### Belém - Pará, Brasil
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Estudando+CiberSegurança+e+IA;Construindo+soluções+para+a+Amazônia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Estudando+Inteligência+Artificial;Construindo+soluções+para+a+Amazônia)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,18 +16,18 @@
 ## 🧠 Sobre mim
 
 💻 Comecei meus estudos em programação em **2023**  
-🔐 Atualmente estudando **Inteligência Artificial**    
+🤖 Atualmente estudando **Inteligência Artificial**  
 🌱 Sempre aprendendo novas tecnologias e boas práticas  
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### 🚛 Freta
 Plataforma digital para conectar motoristas autônomos a clientes que precisam de frete urbano em Belém.
 
-### Fluxo
-Aplicativo de gestão finnaceira voltado para agricultores de pequeno a medio porte
+### 🌾 Fluxo
+Aplicativo de gestão financeira voltado para agricultores de pequeno a médio porte.
 
 ---
 
@@ -38,6 +38,8 @@ Aplicativo de gestão finnaceira voltado para agricultores de pequeno a medio po
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDario632&show_icons=true&theme=gotham&border_color=000000&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDario632&layout=compact&theme=gotham&border_color=000000"/>
+
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham"/>
 
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDario632&theme=gotham"/>
 
@@ -77,6 +79,7 @@ Aplicativo de gestão finnaceira voltado para agricultores de pequeno a medio po
 <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS"/>
 <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase"/>
+
 </div>
 
 ---
