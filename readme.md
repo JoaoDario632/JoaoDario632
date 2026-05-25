@@ -51,7 +51,18 @@ Projeto voltado para conectar talentos amazônicos e oportunidades de trabalho.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nextjs,nodejs,supabase,aws,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="NextJS"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="NodeJS"/>
+<img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase"/>
+<img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VSCode"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
 
 </div>
 
@@ -61,7 +72,11 @@ Projeto voltado para conectar talentos amazônicos e oportunidades de trabalho.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,linux,typescript,tailwind,firebase" />
+<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase"/>
 
 </div>
 
