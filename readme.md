@@ -1,56 +1,98 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02EC9D&height=120&section=header"/> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+João+Dário;sou+de+Belém,+Pará;eu+estudo+ciência+da+computação;seja+bem-vindo!+:%29)](https://git.io/typing-svg)
-
-<div>
-  <br></br>
-  <br></br>
-</div>
-
-<div align='center'>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDario632&theme=gotham&border_color=000000&rank_icon=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoDario632&theme=gotham&utcOffset=-3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoDario632&theme=gotham&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoDario632&theme=gotham&exclude={exclude})
-
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=02EC9D&height=140&section=header"/>
 
 <div align="center">
 
-## _**SKILLS and TOOLS**_   <img width="30px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+# 👋 Olá, eu sou João Dário
 
-<br>
+### 🚀 Estudante de Ciência da Computação | Desenvolvedor Full Stack  
+### 🌎 Belém - Pará, Brasil
 
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="50" />
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" />
-<img src="https://skillicons.dev/icons?i=java" alt="Java" height="50" />
-<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" />
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
-<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" />
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" />
-<img src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=97d5c9&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Estudando+CiberSegurança+e+IA;Construindo+soluções+para+a+Amazônia)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+---
 
-#### - <span>🔭 Comecei meus estudos em programação em 2023</span><br>
-#### - <span>🔬 Estudando CiberSegurança e IA</span>
+## 🧠 Sobre mim
 
-<br>
+💻 Comecei meus estudos em programação em **2023**  
+🔐 Atualmente estudando **CiberSegurança** e **Inteligência Artificial**    
+🌱 Sempre aprendendo novas tecnologias e boas práticas  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoDario632&bg_color=000000&color=15BFE5&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 🚀 Projetos em destaque
+
+### 🚛 Freta
+Plataforma digital para conectar motoristas autônomos a clientes que precisam de frete urbano em Belém.
+
+### 🍇 Açaí Jobs
+Projeto voltado para conectar talentos amazônicos e oportunidades de trabalho.
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaodario/)  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDario632&show_icons=true&theme=gotham&border_color=000000&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDario632&layout=compact&theme=gotham&border_color=000000"/>
+
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoDario632&theme=gotham"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoDario632&bg_color=000000&color=15BFE5&line=07e9a5&point=0a855c&area=true&hide_border=true"/>
 
 </div>
- 
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoDario632&theme=onestar&row=2&no-bg=true&column=4&margin-w=14&margin-h=14" />
+
+<img src="https://skillicons.dev/icons?i=python,javascript,java,react,nextjs,nodejs,supabase,aws,git,github,vscode,mysql" />
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=120&section=footer"/>
+---
+
+## 📚 Atualmente aprendendo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,typescript,tailwind,firebase" />
+
+</div>
+
+---
+
+## 🌐 Redes Sociais
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joaodario/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JoaoDario632&theme=algolia&row=2&column=4&no-bg=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Transformando ideias em soluções através da tecnologia.”
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=42ba82&height=140&section=footer"/>
