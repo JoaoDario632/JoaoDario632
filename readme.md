@@ -16,7 +16,7 @@
 ## 🧠 Sobre mim
 
 💻 Comecei meus estudos em programação em **2023**  
-🔐 Atualmente estudando **CiberSegurança** e **Inteligência Artificial**    
+🔐 Atualmente estudando **Inteligência Artificial**    
 🌱 Sempre aprendendo novas tecnologias e boas práticas  
 
 ---
@@ -26,8 +26,8 @@
 ### 🚛 Freta
 Plataforma digital para conectar motoristas autônomos a clientes que precisam de frete urbano em Belém.
 
-### 🍇 Açaí Jobs
-Projeto voltado para conectar talentos amazônicos e oportunidades de trabalho.
+### Fluxo
+Aplicativo de gestão finnaceira voltado para agricultores de pequeno a medio porte
 
 ---
 
